@@ -130,13 +130,13 @@ pip3 install gdown --break-system-packages
 gdown "https://drive.google.com/uc?id=1bE3kF1Nclw0VyKq4bL2VtOOt53IC7lG5" -O ./6.zip
 unzip 6.zip -d ./6
 ```
-![gambar6.png](WhatsApp Image 2025-10-01 at 19.41.24_7413cb38.jpg)
+![gambar6.png](https://github.com/youone-its/Jarkom-Modul-1-2025-K19/blob/f8b08f68fd79c73f724712cf44681c241b504726/WhatsApp%20Image%202025-10-01%20at%2019.41.24_7413cb38.jpg)
 
 harus pake --break-system-packages karna:
 - Debian/Ubuntu modern (versi yang Anda pakai di GNS3) mengimplementasi PEP 668
 - Policy ini memblokir pip install global untuk mencegah konflik dengan apt
 
-![gambar61.png](gambar61.png)
+![gambar61.png](https://github.com/youone-its/Jarkom-Modul-1-2025-K19/blob/main/WhatsApp%20Image%202025-10-01%20at%2019.46.06_3777752b.jpg)
 
 ---
 #SOAL 7
@@ -276,7 +276,7 @@ ls
 get .....
 bye
 ```
-![gambar7.png](gambar7.png)
+![gambar7.png](https://github.com/youone-its/Jarkom-Modul-1-2025-K19/blob/main/WhatsApp%20Image%202025-10-01%20at%2020.14.52_762e3463.jpg))
 
 > ERU
 ```c
@@ -292,7 +292,7 @@ put ......
 ls
 bye
 ```
-![gambar71.png](gambar71.png)
+![gambar71.png](https://github.com/youone-its/Jarkom-Modul-1-2025-K19/blob/main/WhatsApp%20Image%202025-10-01%20at%2020.15.44_8b1af88b.jpg)
 
 ---
 # SOAL 8
@@ -334,7 +334,9 @@ lcd /tmp/download
 binary
 put ...
 ```
-![gambar8.png](gambar8.png)
+![gambar8.png](https://github.com/youone-its/Jarkom-Modul-1-2025-K19/blob/main/WhatsApp%20Image%202025-10-01%20at%2020.40.10_cc400677.jpg)
+
+![gambar8.1.png](https://github.com/youone-its/Jarkom-Modul-1-2025-K19/blob/main/WhatsApp%20Image%202025-10-01%20at%2020.40.39_ab5d5695.jpg)
 
 ---
 # SOAL 9
@@ -425,27 +427,33 @@ open 10.73.1.1 21
 
 > cat /root/downloads/kitab_penciptaan.txt
 
-![gambar9.png](gambar9.png)
+![gambar9.png](https://github.com/youone-its/Jarkom-Modul-1-2025-K19/blob/main/WhatsApp%20Image%202025-10-01%20at%2020.54.55_eab3e665.jpg)
 
 ---
 # SOAL 10
 ### sniff pake wireshark di melkor-eru
 
 > melkor
+
 ping -c 10 10.73.1.1
-![gambar10.png](gambar10.png)
+
+![gambar10.png](https://github.com/youone-its/Jarkom-Modul-1-2025-K19/blob/main/WhatsApp%20Image%202025-10-01%20at%2020.58.02_9e9b59a2.jpg)
 
 ping -c 100 10.73.1.1
-![gambar101.png](gambar101.png)
+
+![gambar101.png](https://github.com/youone-its/Jarkom-Modul-1-2025-K19/blob/main/WhatsApp%20Image%202025-10-01%20at%2021.00.39_dd1f1745.jpg)
 
 ping -c 100 -i 0.001 10.73.1.1
-![gambar102.png](gambar102.png)
+
+![gambar102.png](https://github.com/youone-its/Jarkom-Modul-1-2025-K19/blob/main/WhatsApp%20Image%202025-10-01%20at%2021.01.13_d09c7f97.jpg)
 
 ping -c 50 -s 1000 10.73.1.1
-![gambar103.png](gambar103.png)
+
+![gambar103.png](https://github.com/youone-its/Jarkom-Modul-1-2025-K19/blob/main/WhatsApp%20Image%202025-10-01%20at%2021.03.21_7e97a28f.jpg)
 
 ping -c 500 -f -s 2000 10.73.1.1
-![gambar104.png](gambar104.png)
+
+![gambar104.png](https://github.com/youone-its/Jarkom-Modul-1-2025-K19/blob/main/WhatsApp%20Image%202025-10-01%20at%2021.04.01_9510da7b.jpg)
 
 ---
 # SOAL 11
@@ -470,7 +478,7 @@ apt install telnet -y
 ```c
 telnet 10.73.1.2
 ```
-![gambar11.png](gambar11.png)
+![gambar11.png](https://github.com/youone-its/Jarkom-Modul-1-2025-K19/blob/main/WhatsApp%20Image%202025-10-01%20at%2021.06.33_91d1d82e.jpg)
 
 ---
 #SOAL 12
@@ -514,4 +522,4 @@ ping -c 4 10.73.1.1
 
 ssh varda@10.73.1.1
 ```
-![gambar13.png](gambar13.png)
+![gambar13.png](https://github.com/youone-its/Jarkom-Modul-1-2025-K19/blob/main/WhatsApp%20Image%202025-10-01%20at%2021.14.49_c203add9.jpg)

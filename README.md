@@ -130,7 +130,7 @@ pip3 install gdown --break-system-packages
 gdown "https://drive.google.com/uc?id=1bE3kF1Nclw0VyKq4bL2VtOOt53IC7lG5" -O ./6.zip
 unzip 6.zip -d ./6
 ```
-![gambar6.png](gambar6.png)
+![gambar6.png](WhatsApp Image 2025-10-01 at 19.41.24_7413cb38.jpg)
 
 harus pake --break-system-packages karna:
 - Debian/Ubuntu modern (versi yang Anda pakai di GNS3) mengimplementasi PEP 668

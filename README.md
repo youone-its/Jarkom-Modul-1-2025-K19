@@ -2,8 +2,6 @@
 | Nama | NRP |
 |--------|--------|
 | Yuan Banny Albyan  | 5027241027  |
-| Nafis  | 5027241  |
-
 # SOAL1
 - membuat topologi agar ERU {eth1,eth2} tersambung ke {Switch1, Switch2}
 - Switch1 {eth0, eth1, eth2} tersambung ke {ERU, Melkor, Manwe}
